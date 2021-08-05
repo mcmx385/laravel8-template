@@ -10,7 +10,21 @@
         "fruitcake/laravel-cors": "^2.0",
         "guzzlehttp/guzzle": "^7.0.1",
         "laravel/framework": "^8.40",
-        "laravel/tinker": "^2.5"
+        "laravel/tinker": "^2.5",
+        "laravel/ui": "^3.3",
+        "socialiteproviders/37signals": "^4.1",
+        "socialiteproviders/apple": "^5.0",
+        "socialiteproviders/discord": "^4.1",
+        "socialiteproviders/generators": "^4.6",
+        "socialiteproviders/gitlab": "^4.1",
+        "socialiteproviders/instagram": "^4.1",
+        "socialiteproviders/linkedin": "^4.1",
+        "socialiteproviders/microsoft-azure": "^4.2",
+        "socialiteproviders/twitch": "^5.3",
+        "socialiteproviders/wechat-service-account": "^4.1",
+        "socialiteproviders/weibo": "^4.1",
+        "socialiteproviders/weixin": "^4.1",
+        "socialiteproviders/youtube": "^4.1"
     },
     "require-dev": {
         "facade/ignition": "^2.5",
